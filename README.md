@@ -1,34 +1,75 @@
-### 👋 سلام، من امیررضا حاجی‌آبادی هستم
+<div align="center">
 
-**بک‌اند دولوپر** | سازنده ایجنت‌های هوش مصنوعی
+# Amirreza Hajiabadi
 
----
+### Engineer · AI · Software
 
-### ⚡ Tech Stack
+I build software, explore AI, and turn ideas into real products.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[GitHub](https://github.com/amirrezahajiabadi) · [LinkedIn](https://linkedin.com/in/amirrezahajiabadi)
+
+</div>
 
 ---
 
-### 🔭 الان روی چی کار می‌کنم؟
+## About
 
-> ساخت ایجنت‌های هوشمند با LangChain و اتوماسیون فرآیندها با n8n
+I'm an engineer focused on **Python, backend systems, AI, and product development**.
 
+I enjoy turning ideas into real, maintainable software — from the architecture and engineering side to the product itself.
+
+My main interests are:
+
+- AI-powered applications
+- Backend & system design
+- Automation
+- Developer tools
+- Product engineering
 
 ---
 
-### 📫 راه‌های ارتباطی
+## Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirrezahajiabadi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirreza.hajiabadi@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirrezahajiabadi)
+**Building:** AI-powered applications and intelligent software
+
+**Learning:** System design, AI engineering, backend architecture
+
+**Exploring:** AI × Automation × Products
+
+**Main Project:** [FileSorter](https://github.com/amirrezahajiabadi/FileSorter)
 
 ---
 
-> *"ساختن سیستم‌هایی که هوشمندانه فکر می‌کنند"* 🚀
+## Stack
+
+**Languages**
+
+`Python` · `C++` · `JavaScript`
+
+**Backend & Infrastructure**
+
+`FastAPI` · `Django` · `PostgreSQL` · `Docker` · `Git`
+
+**AI & Automation**
+
+`LLMs` · `AI Agents` · `Automation` · `n8n`
+
+---
+
+## Featured Project
+
+### FileSorter
+
+**An evolving desktop file organization tool.**
+
+The long-term goal is to turn FileSorter from a simple file organizer into an intelligent desktop organization assistant that helps users keep their digital workspace clean with minimal effort.
+
+→ [Explore FileSorter](https://github.com/amirrezahajiabadi/FileSorter)
+
+---
+
+<div align="center">
+
+### Build. Learn. Iterate.
+
+</div>
