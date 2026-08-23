@@ -44,7 +44,7 @@ My main interests are:
 
 **Languages**
 
-`Python` · `C++` · `JavaScript`
+`Python`
 
 **Backend & Infrastructure**
 
