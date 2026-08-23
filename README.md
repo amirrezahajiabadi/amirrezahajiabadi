@@ -20,12 +20,6 @@
 
 > ساخت ایجنت‌های هوشمند با LangChain و اتوماسیون فرآیندها با n8n
 
----
-
-### 📊 آمار
-
-![Amirreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrezahajiabadi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezahajiabadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 ---
 
