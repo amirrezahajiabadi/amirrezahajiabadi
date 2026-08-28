@@ -35,9 +35,6 @@ My main interests are:
 **Learning:** System design, AI engineering, backend architecture
 
 **Exploring:** AI × Automation × Products
-
-**Main Project:** [FileSorter](https://github.com/amirrezahajiabadi/FileSorter)
-
 ---
 
 ## Stack
@@ -53,18 +50,6 @@ My main interests are:
 **AI & Automation**
 
 `LLMs` · `AI Agents` · `Automation` · `n8n`
-
----
-
-## Featured Project
-
-### FileSorter
-
-**An evolving desktop file organization tool.**
-
-The long-term goal is to turn FileSorter from a simple file organizer into an intelligent desktop organization assistant that helps users keep their digital workspace clean with minimal effort.
-
-→ [Explore FileSorter](https://github.com/amirrezahajiabadi/FileSorter)
 
 ---
 
