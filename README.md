@@ -35,6 +35,7 @@ My main interests are:
 **Learning:** System design, AI engineering, backend architecture
 
 **Exploring:** AI × Automation × Products
+
 ---
 
 ## Stack
