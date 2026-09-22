@@ -2,60 +2,73 @@
 
 # Amirreza Hajiabadi
 
-### Engineer · AI · Software
+### Software & Product Engineer
 
-I build software, explore AI, and turn ideas into real products.
+**Building real software · Learning by building · Improving continuously**
 
-[GitHub](https://github.com/amirrezahajiabadi) · [LinkedIn](https://linkedin.com/in/amirrezahajiabadi)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/amirrezahajiabadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/amirrezahajiabadi)
 
 </div>
 
 ---
 
-## About
+## Featured Projects
 
-I'm an engineer focused on **Python, backend systems, AI, and product development**.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I enjoy turning ideas into real, maintainable software — from the architecture and engineering side to the product itself.
+### 🖥️ FileSorter
 
-My main interests are:
+Desktop software for file organization, analysis and automation.
 
-- AI-powered applications
-- Backend & system design
-- Automation
-- Developer tools
-- Product engineering
+**Python · React · TypeScript**
+
+[View project →](https://github.com/amirrezahajiabadi/FileSorter)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Nexiify
+
+Full-stack web application focused on backend architecture, security and testing.
+
+**Django · PostgreSQL · JavaScript**
+
+[View project →](https://github.com/amirrezahajiabadi/Nexiify)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📋 Daftarche
+
+A personal productivity product focused on UX, interaction and a lightweight PWA experience.
+
+**JavaScript · PWA · UX/UI**
+
+[View project →](https://github.com/amirrezahajiabadi/daftarche)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently
+### ⚙️ Focus
 
-**Building:** AI-powered applications and intelligent software
+`Python` `Django` `JavaScript` `TypeScript` `PostgreSQL` `Git`
 
-**Learning:** System design, AI engineering, backend architecture
-
-**Exploring:** AI × Automation × Products
-
----
-
-## Stack
-
-**Languages**
-
-`Python`
-
-**Backend & Infrastructure**
-
-`FastAPI` · `Django` · `PostgreSQL` · `Docker` · `Git`
-
-**AI & Automation**
-
-`LLMs` · `AI Agents` · `Automation` · `n8n`
+**Exploring:** AI Engineering · Networking · Infrastructure
 
 ---
 
 <div align="center">
 
-### Build. Learn. Iterate.
+### Build · Learn · Iterate
 
 </div>
