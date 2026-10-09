@@ -2,7 +2,7 @@
 
 **Software | Vibe Coder**
 
-`Python` · `Django` · `Docker` · `Git & GitHub` . ‘Rust’ . ‘Go’ .
+`Python` · `Django` · `Docker` · `Git & GitHub` . `Rust` . `Go` .
 
 ---
 
