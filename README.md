@@ -10,5 +10,5 @@
 
 ###  Daftrche
 -  [daftrche.ir](https://daftrche.ir)
--  app.daftrche.ir
+-  https://app.daftrche.ir
 
